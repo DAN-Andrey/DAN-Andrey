@@ -38,14 +38,6 @@
 
 ---
 
-### 📊 GitHub статистика
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DAN-Andrey&show_icons=true&theme=tokyonight&hide=contribs,prs)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DAN-Andrey&layout=compact&theme=tokyonight&hide=html,css)
-
----
-
 ### 🚀 О себе
 
 Перешёл в IT из рабочей профессии осознанно.  
