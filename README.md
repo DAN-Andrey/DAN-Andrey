@@ -23,7 +23,7 @@
 
 ## 📊 GitHub статистика
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=твой_логин&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DAN-Andrey&show_icons=true&theme=dark)
 
 ## 🚀 О себе
 
