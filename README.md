@@ -12,7 +12,7 @@
 </div>
 
 ## 🔧 Технологии
-
+![](https://skillicons.dev/icons?i=react,ts,redux,nodejs,express,postgres,git,vite)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
