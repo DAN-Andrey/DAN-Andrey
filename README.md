@@ -31,8 +31,9 @@
 | Проект | Стек | Описание |
 |--------|------|----------|
 | **CRM-система** | React, TS, Express, PostgreSQL | Полноценное SPA с авторизацией (JWT), CRUD задачами, фильтрацией. Деплой на GitHub Pages + Render. |
-| **Redux_TK_solo_bobr** | React, TS, Redux Toolkit | Пет-проект для отработки навыков работы с глобальным состоянием. |
-| **Recipe_Development** | React, JS | Приложение для поиска и сохранения рецептов. |
+| **Redux_TK_solo_bobr** | React, TS, Redux Toolkit, Express, PostgreSQL | Пет-проект для отработки навыков работы с глобальным состоянием. |
+| **Tea Project** | React, JS, Express, PostgreSQL  | Интерактивная карта чайных плантаций. |
+| **Recipe_Development** | React, JS, Express, PostgreSQL | Приложение для поиска и сохранения рецептов. |
 
 
 ---
