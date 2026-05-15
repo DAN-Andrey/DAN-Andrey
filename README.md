@@ -34,7 +34,6 @@
 | **Redux_TK_solo_bobr** | React, TS, Redux Toolkit | Пет-проект для отработки навыков работы с глобальным состоянием. |
 | **Recipe_Development** | React, JS | Приложение для поиска и сохранения рецептов. |
 
-**[Посмотреть все проекты →](https://github.com/DAN-Andrey?tab=repositories)**
 
 ---
 
